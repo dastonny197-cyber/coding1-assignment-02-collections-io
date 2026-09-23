@@ -4,3 +4,5 @@ sold = sales[drink] #this looks inside the sales dictionary for the key matching
 sold = sold + 1 #this adds 1 to the previous value
 print(drink) #would print tea
 print(sold) #would print 4
+# the prediction was correct, but making a second commit as instructed.
+
